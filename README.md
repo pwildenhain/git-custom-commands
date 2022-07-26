@@ -8,6 +8,7 @@
 
 :memo: Steps:
 1. Note the current branch
-2. Checkout the main branch
+2. Note the main branch
+3. Checkout the main branch
 3. Pull any updates
 4. Hard delete the previous branch 
