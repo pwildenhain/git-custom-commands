@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Add changes cleanly into last commit
+git commit -a --amend --no-edit
+# Force push the changes
+git push -f

@@ -12,3 +12,11 @@
 3. Checkout the main branch
 3. Pull any updates
 4. Hard delete the previous branch 
+
+### `git append`
+
+:hammer: Workflow: We thought we had finished the work and pushed it to GitHub. But then we discover a typo, bug, etc and want to fix it, include it in the last commit and then force push the updates to GitHub.
+
+:memo: Steps:
+1. Add the most recent changes into the last commit cleanly
+2. Force push to GitHub (`origin`)
